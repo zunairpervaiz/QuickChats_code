@@ -1,0 +1,9 @@
+{
+    "name": "Baaba Devs",
+    "age": 25,
+    "married": false,
+    "kids":null,
+    "hobbies": [
+        "coding", "surfing web"
+    ]
+}
